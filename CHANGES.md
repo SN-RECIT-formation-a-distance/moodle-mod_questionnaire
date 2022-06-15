@@ -1,5 +1,5 @@
 Release Notes
 
-Version 3.11.0 Beta (Build - 2020111800)
+Version 4.0.0 Beta (Build - 2022030400)
 
-(see CHANGES.TXT in release 3.10 for earlier changes.)
+(see CHANGES.md in release 3.11 for earlier changes.)
